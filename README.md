@@ -1,0 +1,1 @@
+# Python technologies statistics from Djinni vacancies
